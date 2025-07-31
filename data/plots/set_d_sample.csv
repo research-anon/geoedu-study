@@ -1,0 +1,101 @@
+NOMBRE_INS,REGIÓN,COMUNA,LATITUD_UNI,LONGITUD_UNI,TIPO_INST
+CFT DE LA REGIÓN DE TARAPACÁ,Tarapacá,ALTO HOSPICIO,-20.283158,-70.094432,Centros de formación técnica estatales
+UNIVERSIDAD DE ACONCAGUA,Los Lagos,ANCUD,-41.863089,-73.818511,Universidades privadas
+UNIVERSIDAD DE LOS LAGOS,Los Lagos,ANCUD,-41.86958,-73.825593,Universidades estatales cruch
+UNIVERSIDAD DE LA FRONTERA,La Araucanía,ANGOL,-37.800363,-72.702747,Universidades estatales cruch
+CFT TEODORO WICKEL KLUWEN,La Araucanía,ANGOL,-37.800363,-72.702747,Centros de formación técnica
+UNIVERSIDAD TECNOLÓGICA DE CHILE INACAP,Antofagasta,ANTOFAGASTA,-23.560032,-70.40047,Universidades privadas
+IP INACAP,Antofagasta,ANTOFAGASTA,-23.560032,-70.40047,Institutos profesionales
+CFT INACAP,Antofagasta,ANTOFAGASTA,-23.560032,-70.40047,Centros de formación técnica
+UNIVERSIDAD DE ANTOFAGASTA,Antofagasta,ANTOFAGASTA,-23.616539,-70.385473,Universidades estatales cruch
+UNIVERSIDAD SANTO TOMÁS,Antofagasta,ANTOFAGASTA,-23.634775,-70.393914,Universidades privadas
+IP SANTO TOMÁS,Antofagasta,ANTOFAGASTA,-23.634775,-70.393914,Institutos profesionales
+CFT SANTO TOMÁS,Antofagasta,ANTOFAGASTA,-23.634775,-70.393914,Centros de formación técnica
+UNIVERSIDAD ARTURO PRAT,Antofagasta,ANTOFAGASTA,-23.64571,-70.394567,Universidades estatales cruch
+IP AIEP,Antofagasta,ANTOFAGASTA,-23.648166,-70.399424,Institutos profesionales
+UNIVERSIDAD PEDRO DE VALDIVIA,Antofagasta,ANTOFAGASTA,-23.650356,-70.394849,Universidades privadas
+CFT ESANE DEL NORTE,Antofagasta,ANTOFAGASTA,-23.653494,-70.400378,Centros de formación técnica
+IP VALLE CENTRAL,Antofagasta,ANTOFAGASTA,-23.662386,-70.4012,Institutos profesionales
+UNIVERSIDAD CATÓLICA DEL NORTE,Antofagasta,ANTOFAGASTA,-23.681798,-70.410254,Universidades privadas cruch
+CFT CEDUC - UCN,Antofagasta,ANTOFAGASTA,-23.68304,-70.412755,Centros de formación técnica
+IP IPG,Biobío,ARAUCO,-37.244134,-73.317326,Institutos profesionales
+IP DUOC UC,Biobío,ARAUCO,-37.247151,-73.295334,Institutos profesionales
+UNIVERSIDAD ARTURO PRAT,Arica y Parinacota,ARICA,-18.458216,-70.295118,Universidades estatales cruch
+UNIVERSIDAD TECNOLÓGICA DE CHILE INACAP,Arica y Parinacota,ARICA,-18.469031,-70.302749,Universidades privadas
+IP INACAP,Arica y Parinacota,ARICA,-18.469031,-70.302749,Institutos profesionales
+CFT INACAP,Arica y Parinacota,ARICA,-18.469031,-70.302749,Centros de formación técnica
+UNIVERSIDAD DE TARAPACÁ,Arica y Parinacota,ARICA,-18.472256,-70.313218,Universidades estatales cruch
+CFT DE TARAPACÁ,Arica y Parinacota,ARICA,-18.472256,-70.313218,Centros de formación técnica
+UNIVERSIDAD SANTO TOMÁS,Arica y Parinacota,ARICA,-18.482967,-70.310143,Universidades privadas
+IP SANTO TOMÁS,Arica y Parinacota,ARICA,-18.482967,-70.310143,Institutos profesionales
+CFT SANTO TOMÁS,Arica y Parinacota,ARICA,-18.482967,-70.310143,Centros de formación técnica
+CFT DEL MEDIO AMBIENTE,Metropolitana,BUIN,-33.676089,-70.693473,Centros de formación técnica
+IP VALLE CENTRAL,Metropolitana,BUIN,-33.730579,-70.739201,Institutos profesionales
+UNIVERSIDAD TECNOLÓGICA DE CHILE INACAP,Antofagasta,CALAMA,-22.442013,-68.931284,Universidades privadas
+IP INACAP,Antofagasta,CALAMA,-22.442013,-68.931284,Institutos profesionales
+CFT INACAP,Antofagasta,CALAMA,-22.442013,-68.931284,Centros de formación técnica
+IP AIEP,Antofagasta,CALAMA,-22.449691,-68.921267,Institutos profesionales
+UNIVERSIDAD ARTURO PRAT,Antofagasta,CALAMA,-22.451114,-68.922924,Universidades estatales cruch
+UNIVERSIDAD DE ACONCAGUA,Antofagasta,CALAMA,-22.454527,-68.922461,Universidades privadas
+CFT DE LA REGIÓN DE ANTOFAGASTA,Antofagasta,CALAMA,-22.470741,-68.930096,Centros de formación técnica estatales
+UNIVERSIDAD DE ATACAMA,Atacama,CALDERA,-27.065706,-70.823588,Universidades estatales cruch
+UNIVERSIDAD CATÓLICA DE LA SANTÍSIMA CONCEPCIÓN,Biobío,CAÑETE,-37.791912,-73.390947,Universidades privadas cruch
+CFT LOTA-ARAUCO,Biobío,CAÑETE,-37.799891,-73.397863,Centros de formación técnica
+UNIVERSIDAD ANDRÉS BELLO,Valparaíso,CASABLANCA,-33.192982,-71.701759,Universidades privadas
+UNIVERSIDAD DE LOS LAGOS,Los Lagos,CASTRO,-42.397831,-73.790108,Universidades estatales cruch
+IP AIEP,Los Lagos,CASTRO,-42.476731,-73.76516,Institutos profesionales
+CFT SAN AGUSTÍN,Maule,CAUQUENES,-35.98123,-72.314035,Centros de formación técnica
+UNIVERSIDAD DE CHILE,Metropolitana,CERRILLOS,-33.494392,-70.716795,Universidades estatales cruch
+IP DUOC UC,Metropolitana,CERRILLOS,-33.515181,-70.718433,Institutos profesionales
+UNIVERSIDAD PEDRO DE VALDIVIA,Ñuble,CHILLÁN,-36.568762,-72.096692,Universidades privadas
+IP DR. VIRGINIO GÓMEZ G.,Ñuble,CHILLÁN,-36.589869,-72.08241,Institutos profesionales
+UNIVERSIDAD TECNOLÓGICA DE CHILE INACAP,Ñuble,CHILLÁN,-36.593612,-72.103872,Universidades privadas
+CFT INACAP,Ñuble,CHILLÁN,-36.593612,-72.103872,Centros de formación técnica
+IP INACAP,Ñuble,CHILLÁN,-36.594381,-72.104319,Institutos profesionales
+UNIVERSIDAD DE CONCEPCIÓN,Ñuble,CHILLÁN,-36.596509,-72.086066,Universidades privadas cruch
+IP SANTO TOMÁS,Ñuble,CHILLÁN,-36.600772,-72.105401,Institutos profesionales
+CFT SANTO TOMÁS,Ñuble,CHILLÁN,-36.600772,-72.105401,Centros de formación técnica
+UNIVERSIDAD DEL BÍO-BÍO,Ñuble,CHILLÁN,-36.602098,-72.110347,Universidades estatales cruch
+IP DIEGO PORTALES,Ñuble,CHILLÁN,-36.604445,-72.111023,Institutos profesionales
+UNIVERSIDAD CATÓLICA DE LA SANTÍSIMA CONCEPCIÓN,Ñuble,CHILLÁN,-36.605672,-72.101991,Universidades privadas cruch
+IP VALLE CENTRAL,Ñuble,CHILLÁN,-36.607586,-72.102215,Institutos profesionales
+UNIVERSIDAD BOLIVARIANA,Ñuble,CHILLÁN,-36.60796,-72.102518,Universidades privadas
+UNIVERSIDAD ADVENTISTA DE CHILE,Ñuble,CHILLÁN,-36.637289,-71.997327,Universidades privadas
+CFT LAPLACE,Metropolitana,COLINA,-33.204686,-70.673455,Centros de formación técnica
+IP DR. VIRGINIO GÓMEZ G.,Biobío,CONCEPCIÓN,-36.77972,-73.076034,Institutos profesionales
+IP SANTO TOMÁS,Biobío,CONCEPCIÓN,-36.781953,-73.074825,Institutos profesionales
+UNIVERSIDAD CATÓLICA DE LA SANTÍSIMA CONCEPCIÓN,Biobío,CONCEPCIÓN,-36.783263,-73.057905,Universidades privadas cruch
+UNIVERSIDAD DE LAS AMÉRICAS,Biobío,CONCEPCIÓN,-36.783263,-73.057905,Universidades privadas
+UNIVERSIDAD SAN SEBASTIÁN,Biobío,CONCEPCIÓN,-36.783338,-73.058028,Universidades privadas
+IP DUOC UC,Biobío,CONCEPCIÓN,-36.795878,-73.061713,Institutos profesionales
+UNIVERSIDAD SANTO TOMÁS,Biobío,CONCEPCIÓN,-36.819712,-73.039329,Universidades privadas
+UNIVERSIDAD DEL DESARROLLO,Biobío,CONCEPCIÓN,-36.819712,-73.039329,Universidades privadas
+UNIVERSIDAD TECNOLÓGICA DE CHILE INACAP,Biobío,CONCEPCIÓN,-36.820777,-73.037019,Universidades privadas
+UNIVERSIDAD DE CONCEPCIÓN,Biobío,CONCEPCIÓN,-36.820962,-73.035964,Universidades privadas cruch
+IP INACAP,Biobío,CONCEPCIÓN,-36.821404,-73.03661,Institutos profesionales
+CFT INACAP,Biobío,CONCEPCIÓN,-36.821547,-73.036524,Centros de formación técnica
+UNIVERSIDAD DEL BÍO-BÍO,Biobío,CONCEPCIÓN,-36.822494,-73.013316,Universidades estatales cruch
+IP IPG,Biobío,CONCEPCIÓN,-36.822657,-73.03839,Institutos profesionales
+CFT SANTO TOMÁS,Biobío,CONCEPCIÓN,-36.823929,-73.039042,Centros de formación técnica
+UNIVERSIDAD BOLIVARIANA,Biobío,CONCEPCIÓN,-36.82589,-73.043441,Universidades privadas
+IP DIEGO PORTALES,Biobío,CONCEPCIÓN,-36.825958,-73.05623,Institutos profesionales
+IP AIEP,Biobío,CONCEPCIÓN,-36.828498,-73.054747,Institutos profesionales
+IP VALLE CENTRAL,Biobío,CONCEPCIÓN,-36.828499,-73.055987,Institutos profesionales
+CFT BARROS ARANA,Biobío,CONCEPCIÓN,-36.828499,-73.055987,Centros de formación técnica
+IP INSTITUTO DE ESTUDIOS BANCARIOS GUILLERMO SUBERCASEAUX,Biobío,CONCEPCIÓN,-36.829454,-73.040846,Institutos profesionales
+UNIVERSIDAD ANDRÉS BELLO,Biobío,CONCEPCIÓN,-36.853977,-73.049381,Universidades privadas
+IP AIEP,Metropolitana,CONCHALÍ,-33.367832,-70.680638,Institutos profesionales
+IP VALLE CENTRAL,Maule,CONSTITUCIÓN,-35.332537,-72.408664,Institutos profesionales
+UNIVERSIDAD SANTO TOMÁS,Atacama,COPIAPÓ,-27.350215,-70.354433,Universidades privadas
+IP SANTO TOMÁS,Atacama,COPIAPÓ,-27.350215,-70.354433,Institutos profesionales
+CFT SANTO TOMÁS,Atacama,COPIAPÓ,-27.350215,-70.354433,Centros de formación técnica
+UNIVERSIDAD DE ATACAMA,Atacama,COPIAPÓ,-27.356742,-70.352501,Universidades estatales cruch
+UNIVERSIDAD TECNOLÓGICA DE CHILE INACAP,Atacama,COPIAPÓ,-27.360351,-70.334945,Universidades privadas
+IP INACAP,Atacama,COPIAPÓ,-27.360351,-70.334945,Institutos profesionales
+CFT INACAP,Atacama,COPIAPÓ,-27.360351,-70.334945,Centros de formación técnica
+IP LATINOAMERICANO DE COMERCIO EXTERIOR,Atacama,COPIAPÓ,-27.366109,-70.337867,Institutos profesionales
+UNIVERSIDAD CATÓLICA DEL NORTE,Coquimbo,COQUIMBO,-29.907539,-71.247682,Universidades privadas cruch
+UNIVERSIDAD DE LA SERENA,Coquimbo,COQUIMBO,-29.961249,-71.337547,Universidades estatales cruch
+CFT CEDUC - UCN,Coquimbo,COQUIMBO,-29.968317,-71.326905,Centros de formación técnica
+IP LOS LAGOS,Aysén,COYHAIQUE,-45.568092,-72.066797,Institutos profesionales
+CFT LOS LAGOS,Aysén,COYHAIQUE,-45.568092,-72.066797,Centros de formación técnica
