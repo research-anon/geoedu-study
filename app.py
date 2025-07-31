@@ -39,15 +39,8 @@ class SidebarText:
     """
 
     autores = """
-    <h5>📄 Autores del estudio:</h5>
-    <ul>
-        <li><b>Francisco Alfaro</b> – UTFSM</li>
-        <li><b>Gabriel Molina</b> – UTFSM</li>
-        <li><b>Dorian Villegas </b> – UTFSM</li>
-        <li><b>Valeska Canales</b> – UTFSM</li>
-    </ul>
-    <p><i>Fecha de publicación: Agosto de 2025</i></p>
-    <p>🔗 <a href="https://centroestudios.mineduc.cl/datos-abiertos" target="_blank">Accede a la fuente de datos</a></p>
+    <h5>📄 Equipo de trabajo:</h5>
+    <p>Esta aplicación ha sido anonimizada para revisión por pares.</p>
     """
 
 
@@ -67,14 +60,14 @@ class BodyText:
     Finalmente, se construyó una muestra robusta para el análisis utilizando fuentes como SIES, DEMRE y JUNAEB. La siguiente tabla resume las variables clave y su cobertura:
     """
     tab1_fuentes1 = """
-Se utilizaron fuentes públicas oficiales del sistema educativo chileno:
+Se utilizaron fuentes públicas oficiales del sistema educativo chileno, disponibles para libre acceso:
 
-- **📌 SIES (2021):** Registro de matrícula de estudiantes en educación superior. Incluye carrera, tipo de ingreso e institución.
-- **📌 DEMRE (2019–2021):** Información de puntajes PSU, postulaciones, dirección de egreso y antecedentes educacionales.
-- **📌 Establecimientos educacionales (MINEDUC 2021):** Ubicación y matrícula de colegios hasta el 30 de agosto de 2021.
-- **📌 Inmuebles de educación superior (MINEDUC 2020):** Coordenadas y ubicación de sedes institucionales.
-- **📌 Índice de Vulnerabilidad Multidimensional (IVM - JUNAEB):** Vulnerabilidad estudiantil según dimensiones socioeducativas. Valores entre 0 y 100.
-    """
+- **📌 [Matrícula en Educación Superior (SIES)](https://datosabiertos.mineduc.cl/matricula-en-educacion-superior/):** Registro anual de matrícula de estudiantes en instituciones de educación superior, incluyendo carrera, tipo de ingreso e institución.
+- **📌 [Puntajes de Admisión (DEMRE)](https://datosabiertos.mineduc.cl/pruebas-de-admision-a-la-educacion-superior/):** Resultados de las pruebas PSU/PAES y antecedentes de postulación, incluyendo dirección de egreso y tipo de establecimiento.
+- **📌 [Establecimientos Educacionales (MINEDUC)](https://www.geoportal.cl/geoportal/catalog/35408/Establecimientos%20Educaci%C3%B3n%20Escolar):** Información georreferenciada de colegios y liceos, junto con su matrícula vigente al 30 de agosto de cada año.
+- **📌 [Inmuebles de Educación Superior (MINEDUC)](https://www.geoportal.cl/geoportal/catalog/35408/Establecimientos%20Educaci%C3%B3n%20Escolar):** Coordenadas y localización de las sedes de instituciones de educación superior.
+- **📌 [Índice de Vulnerabilidad Multidimensional (IVM – JUNAEB)](https://www.junaeb.cl/medicion-la-vulnerabilidad-ivm/):** Indicador que estima el nivel de vulnerabilidad socioeducativa de los estudiantes, con valores entre 0 y 100.
+"""
     tab1_fuentes2 = """
 Se definieron tres conjuntos iniciales de datos según criterios de edad, nivel educativo e institución:
 
