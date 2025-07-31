@@ -4,7 +4,7 @@ This repository contains the code, datasets, and visualizations used in the anal
 
 This submission is part of an anonymized academic review process (e.g., ICPRS 2025) and complies with the double-blind requirements.
 
-## 🧠 Project Overview
+## Project Overview
 
 The study focuses on identifying spatial and socioeconomic patterns in student transitions from secondary education to university. It uses public datasets to:
 
@@ -31,7 +31,7 @@ requirements.txt→ Python dependencies required to run the project
 ```
 
 
-## 📊 Included Analyses
+## Included Analyses
 
 - Descriptive statistics and PCA-based dimensionality reduction
 - Interregional mobility matrix and distance metrics
@@ -41,7 +41,7 @@ requirements.txt→ Python dependencies required to run the project
 Aquí tienes una versión mejorada y más fluida en inglés para esa sección del `README.md`, manteniendo el tono profesional y la claridad:
 
 
-### 🌍 Public Data Sources
+### Public Data Sources
 
 The following open datasets were used in this project:
 
