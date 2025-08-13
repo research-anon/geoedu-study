@@ -2,7 +2,7 @@
 
 This repository contains the code, datasets, and visualizations used in the analysis of regional student mobility and access to higher education across a national context. The project explores territorial patterns using geospatial and statistical methods, contributing to the design of data-driven educational policies.
 
-This submission is part of an anonymized academic review process (e.g., ICPRS 2025) and complies with the double-blind requirements.
+> This submission is part of an anonymized academic review process and complies with double-blind requirements.
 
 ## Project Overview
 
