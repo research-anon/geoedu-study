@@ -16,8 +16,8 @@ st.set_page_config(
 class SidebarText:
     introduccion = """
     <h4>🌎 GeoEdu Chile</h4>
-    Plataforma interactiva basada en el <b>Estudio de Contextualización Territorial Universitaria</b>, 
-    desarrollado en el marco del proyecto <b>RED20993</b>.
+    Plataforma interactiva basada en un estudio de análisis territorial universitario, 
+    desarrollada en el marco de un proyecto de investigación anonimizado.
 
     Esta aplicación permite explorar y analizar:
     <ul>
@@ -366,3 +366,4 @@ def main():
 # Ejecutar la aplicación si se llama directamente
 if __name__ == "__main__":
     main()
+
